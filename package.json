@@ -1,0 +1,16 @@
+{
+  "name": "color-list-lib",
+  "version": "1.0.0",
+  "description": "A simple color list (LIBRARY)!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "hex",
+    "color-list"
+  ],
+  "author": "@rafedaniels",
+  "license": "ISC"
+}
