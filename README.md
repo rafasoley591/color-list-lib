@@ -8,5 +8,5 @@ This is a library with a list of colors! You can get any of the colors of this l
 ```
     const colors = require("color-list-lib").colors
 
-    console.log(`The HEX Code for the color: Navy Blue is: #${colors.navy_blue.hex}`)
+    console.log(`The HEX Code for the color: Navy Blue is: #${colors.navy_blue}`)
 ```
